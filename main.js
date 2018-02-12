@@ -62,5 +62,5 @@ function drawsquares(){
 }
 
 
-this.setup();
-this.drawsquares();
+setup();
+drawsquares();
